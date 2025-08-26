@@ -1,4 +1,4 @@
-## Ola Eu sou o Pietro Donicht
+## Olá, Eu sou o Pietro Donicht
 
 <div>
     <a>
